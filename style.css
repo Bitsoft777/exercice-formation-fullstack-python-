@@ -201,3 +201,11 @@ span {
   color: rgb(96, 96, 96);
   font-size: 12px;
 }
+ @media (max-width: 768px) {
+    .side-bar {
+      display: none;
+    }
+    .search {
+      display: none;
+    }
+}
