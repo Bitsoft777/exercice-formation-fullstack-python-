@@ -20,3 +20,10 @@ main {
    display: flex;
    background-color: #f9f9f9;
  }
+/* Sidebar */ 
+.side-bar {
+    height: 100%;
+    width: 17%;
+    background-color: white;
+    overflow-y: hidden;
+}
