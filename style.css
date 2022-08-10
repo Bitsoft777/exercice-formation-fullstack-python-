@@ -115,3 +115,8 @@ Finally, let’s style all the material-icons we have on the web page
 .active {
    background: #e5e5e5;
 }
+hr {
+   height: 1px;
+   background-color: #e5e5e5;
+   border: none;
+ }
