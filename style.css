@@ -85,3 +85,8 @@ input:focus {
     padding: 0 7px;
     cursor: pointer;
   }
+The button inside the search section is also selected with the .search button. Its height is set to 100% of its parent. We don’t want it to have any border so we set its border to 0.
+
+We access the microphone icon with its class name .mic and set its margin-top to 10px so that it will move down a bit.
+
+Finally, let’s style all the material-icons we have on the web page
